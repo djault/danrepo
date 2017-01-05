@@ -9,5 +9,5 @@ and cermvt.codmag = "0658"
  and cermvt.transp = "998"
 
  :
- 
+ displ cermvt.codmag cermvt.codmvt cermvt.datsai .
  end.
